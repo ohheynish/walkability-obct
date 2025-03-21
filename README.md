@@ -2,9 +2,9 @@
 
 repo for the walkability development paper.
 
-paper: coming soon!
-code: coming soon!
-interactive map: coming soon!
-poster: coming soon!
+- paper: coming soon!
+- code: coming soon!
+- interactive map: coming soon!
+- poster: coming soon!
 
-details about the OBCT project: obct.nl
+details about the OBCT project: [OBCT](https://obct.nl)
