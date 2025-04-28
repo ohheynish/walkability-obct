@@ -2,7 +2,7 @@
 
 repo for the walkability development paper.
 
-- paper: coming soon!
+- paper: https://arxiv.org/abs/2504.17897
 - code: coming soon!
 - interactive map: coming soon!
 - poster: coming soon!
