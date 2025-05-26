@@ -14,13 +14,13 @@ The recommended order of execution with brief descriptions:
    - **02_sidewalks_osmium.ipynb**: Efficient sidewalk processing with [`osmium`](https://osmcode.org/pyosmium/).
    - **02_street_intersections.ipynb**: using `OSMnx`.
    - **02_street_intersections_osmium.ipynb**: Efficient intersection calculation with `osmium`.
-   - **02_green_spaces.ipynb**: Extracts NDVI from Sentinel-2 (requires GEE & Google Cloud).
-   - **02_slope.ipynb**: Extracts slope from NASA DEM (requires GEE & Google Cloud).
+   - **02_green_spaces.ipynb**: Extracts NDVI from Sentinel-2 (requires Google Earth Engine & Google Cloud).
+   - **02_slope.ipynb**: Extracts slope from NASA DEM (requires Google Earth Engine & Google Cloud).
    - **02_public_transport.ipynb**: Counts OSM public transport features (requires Overpass API).
    - **02_public_transport_osmium.ipynb**: Efficient version using `osmium`.
-   - **02_landuse_mix.ipynb**: Computes land use mix (entropy) using Copernicus LULC data (requires GEE & Google Cloud).
+   - **02_landuse_mix.ipynb**: Computes land use mix (entropy) using Copernicus LULC data (requires Google Earth Engine & Google Cloud).
    - **02_degree_of_urbanization.ipynb**: Uses GHSL data to assign urbanization class (requires Google Earth Engine & Google Cloud).
-   - **02_population.ipynb**: Assigns population counts from GHSL (requires GEE & Google Cloud).
+   - **02_population.ipynb**: Assigns population counts from GHSL (requires Google Earth Engine & Google Cloud).
 
 3. **03_generate_isochrones.ipynb**  
    Uses [`Valhalla`](https://github.com/valhalla/valhalla) routing engine to generate isochrone polygons (also a component: 15-min walking area).
