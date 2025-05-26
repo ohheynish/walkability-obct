@@ -53,3 +53,6 @@ Some scripts expect the following data to be pre-downloaded:
   Download from: [Geofabrik](https://download.geofabrik.de/europe.html)
 
 ## Interactive Web-Atlas (coming soon!)
+
+If you'd like to use the already processed data for your projects, don't hesitate to reach out!
+This work was done as part of the [`OBCT`](https://www.obct.nl/) project.
