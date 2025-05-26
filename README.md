@@ -54,5 +54,15 @@ Some scripts expect the following data to be pre-downloaded:
 
 ## Interactive Web-Atlas (coming soon!)
 
+## Environment Setup
+
+To create and activate the environment for reproducibility:
+
+```bash
+conda env create -f environment.yml
+conda activate geo_env
+
+## Additional Info
+
 If you'd like to use the already processed data for your projects, don't hesitate to reach out!  
 This work was done as part of the [`OBCT`](https://www.obct.nl/) project.
