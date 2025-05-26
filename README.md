@@ -61,6 +61,7 @@ To create and activate the environment for reproducibility:
 ```bash
 conda env create -f environment.yml
 conda activate geo_env
+```
 
 ## Additional Info
 
